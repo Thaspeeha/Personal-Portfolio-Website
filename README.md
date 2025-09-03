@@ -24,16 +24,27 @@ Interactivity – Hover effects, form validation, and optional modals/sliders
 📂 Project Structure
 
 portfolio-website/
+
 │── index.html        # Home Page
+
 │── about.html        # About Page
+
 │── projects.html     # Projects Page
+
 │── contact.html      # Contact Page
+
 │── resume.pdf        # Downloadable resume
+
 │── css/
+
 │   └── style.css     # Styling
+
 │── js/
+
 │   └── script.js     # JavaScript interactivity
+
 │── images/           # Profile & project images
+
 │── README.md         # Documentation
 
 🛠️ Technologies Used
