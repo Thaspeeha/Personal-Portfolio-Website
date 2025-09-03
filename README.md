@@ -57,10 +57,6 @@ JavaScript (ES6) – Interactivity & form validation
 
 📥 Installation & Setup
 
-Clone the repository:
-
-git clone https://github.com/Thaspeeha/Personal-Portfolio-Website
-
 Navigate into the project folder:
 
 cd portfolio-website
