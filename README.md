@@ -1,4 +1,4 @@
-#  🌐 Personal-Portfolio-Website (In development)
+#  🌐 Personal-Portfolio-Website (Under development)
 
 📌 Project Overview
 
